@@ -14,7 +14,6 @@ A **4-player online multiplayer** game made in **Unreal Engine**, where two team
 - **Dynamic Obstacles** – Once a team starts capturing the point, **pillars around the zone begin moving**, adding an extra challenge to the battle.
 
 # Capture Zone
-![Zone4](https://github.com/user-attachments/assets/fc2f4818-27ac-4f62-8419-5226875bbe88)
 ![zone3](https://github.com/user-attachments/assets/21eb5710-f1ab-4ee0-9bcd-8b94261068b3)
 ![zone8](https://github.com/user-attachments/assets/ce8d5307-71a5-4711-abbf-c4a4dccf5872)
 
