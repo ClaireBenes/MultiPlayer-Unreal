@@ -13,7 +13,7 @@ A **4-player online multiplayer** game made in **Unreal Engine**, where two team
 - **Respawn & Regroup** – Eliminated players return to spawn, giving the opposing team a chance to secure the area.
 - **Dynamic Obstacles** – Once a team starts capturing the point, **pillars around the zone begin moving**, adding an extra challenge to the battle.
 
-# Capture Zone
+### Capture Zone
 ![zone3](https://github.com/user-attachments/assets/21eb5710-f1ab-4ee0-9bcd-8b94261068b3)
 ![zone8](https://github.com/user-attachments/assets/ce8d5307-71a5-4711-abbf-c4a4dccf5872)
 
@@ -36,11 +36,11 @@ A **4-player online multiplayer** game made in **Unreal Engine**, where two team
 | Run           | Shift                | Right Trigger OR Left Trigger |
 
 
-# Spawns  
+### Spawns  
 ![pink](https://github.com/user-attachments/assets/c0132861-8eb0-40ac-91cf-397aac49b537)
 ![green](https://github.com/user-attachments/assets/19cb0441-4a9d-410d-aea0-bbf1e1d36876)
 
-# Lobby  
+### Lobby  
 ![Lobby](https://github.com/user-attachments/assets/ff5fbe25-14c4-4c8d-b43a-d26ee1444954)
 
 ## 💡 Inspiration
