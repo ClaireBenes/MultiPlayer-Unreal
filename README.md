@@ -2,7 +2,7 @@
 
 A **4-player online multiplayer** game made in **Unreal Engine**, where two teams battle to capture a point using **paint mechanics**. The first team to reach **100% control** or have the **highest percentage** when the timer runs out **wins**!
 
-![zone2](https://github.com/user-attachments/assets/c505422f-5594-4b31-9678-c9fdabdd0a67)
+![zone2](https://github.com/user-attachments/assets/91d51658-458f-4b06-ad27-3977e12b3cab)
 
 
 ## 🎯 Objective
@@ -14,9 +14,9 @@ A **4-player online multiplayer** game made in **Unreal Engine**, where two team
 - **Dynamic Obstacles** – Once a team starts capturing the point, **pillars around the zone begin moving**, adding an extra challenge to the battle.
 
 # Capture Zone
-![Zone4](https://github.com/user-attachments/assets/dee5e7b8-b245-4916-baad-dc078c3cd740)
-![zone8](https://github.com/user-attachments/assets/bc94a0fb-8585-4bcd-a06f-5755242854a7)
-![zone1](https://github.com/user-attachments/assets/38201369-0050-4f58-a4dd-f567708156e3)
+![Zone4](https://github.com/user-attachments/assets/fc2f4818-27ac-4f62-8419-5226875bbe88)
+![zone3](https://github.com/user-attachments/assets/21eb5710-f1ab-4ee0-9bcd-8b94261068b3)
+![zone8](https://github.com/user-attachments/assets/ce8d5307-71a5-4711-abbf-c4a4dccf5872)
 
 ## 🛠️ Key Features
 
@@ -27,14 +27,6 @@ A **4-player online multiplayer** game made in **Unreal Engine**, where two team
 - **Strategic Gameplay** – Work together to maintain control and deny the enemy team.
 - **Evolving Battleground** – Moving pillars during capture make holding the zone more difficult and create intense encounters.
 
-# Spawns  
-![green](https://github.com/user-attachments/assets/e608ca91-773e-45a1-a589-81647831b8ab)
-![pink](https://github.com/user-attachments/assets/fe181be5-7e7a-4cd2-89b0-679173b6e55b)
-
-# Lobby  
-![Lobby](https://github.com/user-attachments/assets/a8e459d0-1589-4307-9c14-24695692045b)
-
-
 ## 🎮 Controls
 
 | Action        | Keybinding (Keyboard)| Keybinding (Controller)       |
@@ -43,6 +35,14 @@ A **4-player online multiplayer** game made in **Unreal Engine**, where two team
 | Shoot Paint   | Left Mouse Button    | X Button                      |
 | Jump          | Space                | A Button                      |
 | Run           | Shift                | Right Trigger OR Left Trigger |
+
+
+# Spawns  
+![pink](https://github.com/user-attachments/assets/c0132861-8eb0-40ac-91cf-397aac49b537)
+![green](https://github.com/user-attachments/assets/19cb0441-4a9d-410d-aea0-bbf1e1d36876)
+
+# Lobby  
+![Lobby](https://github.com/user-attachments/assets/ff5fbe25-14c4-4c8d-b43a-d26ee1444954)
 
 ## 💡 Inspiration
 
