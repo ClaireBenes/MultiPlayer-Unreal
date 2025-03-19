@@ -2,9 +2,6 @@
 
 A **4-player online multiplayer** game made in **Unreal Engine**, where two teams battle to capture a point using **paint mechanics**. The first team to reach **100% control** or have the **highest percentage** when the timer runs out **wins**!
 
-![zone2](https://github.com/user-attachments/assets/91d51658-458f-4b06-ad27-3977e12b3cab)
-
-
 ## 🎯 Objective
 
 - **Compete in 2v2 matches** – Two teams fight to claim and hold the central objective.
