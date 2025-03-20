@@ -48,4 +48,14 @@ This project was inspired by team-based objective games like **Splatoon** mechan
 
 This game is currently a **work in progress**, built as an experimental **multiplayer arena shooter** with a focus on **fun, strategy, and teamwork**. Feel free to **test it out, contribute, or provide feedback!**
 
+## 📜 Technical Requirements Breakdown
+
+For the project requirements:
+
+1. **Object Spawning:** The game dynamically spawns players, projectiles, and paint splashes on surfaces (floor, walls, and objects) to create an interactive environment.
+2. **Moving Objects:** When a team starts capturing the point, **pillars around the zone begin moving**, adding complexity and challenge to the gameplay.
+3. **UI Interaction:** The **team control percentage** is displayed on the UI for all players, updating in real time to reflect which team is winning.
+4. **Persistent Data:** In addition to saving the player’s username, the game also **saves their selected color and team choice** between sessions.
+5. **Player Actions:** Players can **walk, run, jump, and shoot** to navigate and engage in battles within the arena.
+
  
